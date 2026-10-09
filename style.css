@@ -1,0 +1,57 @@
+body{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    margin: 150px;
+}
+.calculator{
+    background-color: black;
+    padding: 20px;
+    border-radius: 10px;
+}
+.button{
+    padding: 15px;
+    border-radius: 40px;
+    font-size: 30px;
+    border: solid black;
+    height: 70px;
+    width: 70px;
+    background-color:rgb(50, 48, 48) ;
+    color: white;
+}
+.debrah{
+    padding: 40px;
+    width: 190px;
+    margin:15px ;
+    border-radius: 20px;
+    background-color: rgb(50, 48, 48);
+    text-align: right;
+    border: solid black;
+    font-size:40px ; 
+    color: aliceblue;
+
+}
+#money{
+    background-color: orange;
+    color: white;
+}
+.ahi{
+    padding: 15px;
+    border-radius: 40px;
+    font-size: 30px;
+    border: solid black;
+    height: 70px;
+    width: 145px;
+    background-color:rgb(50, 48, 48) ;
+    color: white; 
+}
+.math{
+  padding: 15px;
+    border-radius: 40px;
+    font-size: 30px;
+    border: solid black;
+    height: 70px;
+    width: 70px;
+    background-color:rgb(110, 96, 96) ;
+    color: black;   
+}
